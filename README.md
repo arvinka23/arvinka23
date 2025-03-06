@@ -1,11 +1,12 @@
 <div align="center">
   
-# 👋 Hi, ich bin Arvin Kasipour
+# <div style="background-color: #1565C0; color: white; padding: 20px; border-radius: 10px;">👋 Hi, ich bin Seyedarvin Kasipourazbari</div>
 
-### Ein Schüler an der Kantonsschule Baden mit Leidenschaft für Technologie
+### Ein 18-jähriger Schüler an der Kantonsschule Baden, IMS
 
 <img src="https://img.shields.io/badge/-Schüler-blue?style=for-the-badge" alt="Schüler Badge"/>
 <img src="https://img.shields.io/badge/-Entwickler-orange?style=for-the-badge" alt="Entwickler Badge"/>
+<img src="https://img.shields.io/badge/-18%20Jahre-green?style=for-the-badge" alt="Alter Badge"/>
 
 </div>
 
@@ -15,7 +16,7 @@
 
 Immer offen für spannende Projekte und verrückte Ideen! Lass uns zusammen etwas Großartiges erschaffen.
 
-<a href="mailto:deine-email@example.com">
+<a href="mailto:a.kasipourazbari.inf23@stud.bbbaden.ch">
   <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -44,15 +45,29 @@ Immer offen für spannende Projekte und verrückte Ideen! Lass uns zusammen etwa
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Ausbildung
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN-USERNAME&theme=tokyonight" alt="GitHub Streak" />
+<div style="background-color: #f0f8ff; padding: 15px; border-left: 5px solid #1565C0; border-radius: 5px;">
+  <strong>IMS - Informatikmittelschule</strong><br>
+  Kantonsschule Baden<br>
+  <i>Aktuell</i>
 </div>
 
 ---
 
+## 💡 Über mich
+
+```javascript
+const arvin = {
+  alter: 18,
+  interessen: ['Programmieren', 'Schachspielen', 'Innovation'],
+  ziele: ['Ständiges Lernen', 'Interessante Projekte entwickeln'],
+  motto: "Neugier ist der Schlüssel zum Erfolg!"
+};
+```
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEIN-USERNAME&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arvin-kasipour&color=blue" alt="Profile Views" />
 </div>
