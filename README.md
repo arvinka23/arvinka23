@@ -14,7 +14,7 @@
 
 ## 📫 Kontakt
 
-Immer offen für spannende Projekte und verrückte Ideen! Lass uns zusammen etwas Großartiges erschaffen.
+Stehe immer zur Verfügung
 
 <a href="mailto:a.kasipourazbari.inf23@stud.bbbaden.ch">
   <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
