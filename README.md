@@ -16,7 +16,7 @@
 
 Stehe immer zur Verfügung
 
-<a href="mailto:a.kasipourazbari.inf23@stud.bbbaden.ch">
+<a href="mailto:seyedarvin.kasipourazbari.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -60,7 +60,7 @@ Stehe immer zur Verfügung
 ```javascript
 const arvin = {
   alter: 18,
-  interessen: ['Programmieren', 'Schachspielen', 'Innovation'],
+  interessen: ['Programmieren', 'Schachspielen', 'Reisen'],
   ziele: ['Ständiges Lernen', 'Interessante Projekte entwickeln'],
   motto: "Neugier ist der Schlüssel zum Erfolg!"
 };
