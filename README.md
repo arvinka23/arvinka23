@@ -1,9 +1,9 @@
 # Hallo, ich bin Seyedarvin Kasipourazbari
 
 **IMS Student & Full-Stack Entwickler** an der Kantonsschule Baden.
-Ich entwickle zuverlaessige digitale Produkte mit Fokus auf saubere Architektur und klare Kommunikation.
+Ich entwickle zuverlässige digitale Produkte mit Fokus auf saubere Architektur und klare Kommunikation.
 
-Ab **August 2026** fuer ein 12-monatiges IMS Praktikum verfuegbar.
+Ab **August 2026** für ein 12-monatiges IMS Praktikum verfügbar.
 
 ---
 
@@ -21,9 +21,9 @@ Ab **August 2026** fuer ein 12-monatiges IMS Praktikum verfuegbar.
 | Projekt | Beschreibung | Technologie | Link |
 |---------|-------------|-------------|------|
 | **IconTale** | Realtime Multiplayer Storytelling Game | Node.js, WebSocket, TypeScript | [Live Demo](https://icontale.onrender.com/) |
-| **Schachspiel** | Vollstaendiges Browser-Schach mit allen FIDE-Regeln | JavaScript, HTML5, CSS3 | [Live Demo](https://arvinka23.github.io/Schachspiel/) |
+| **Schachspiel** | Vollständiges Browser-Schach mit allen FIDE-Regeln | JavaScript, HTML5, CSS3 | [Live Demo](https://arvinka23.github.io/Schachspiel/) |
 | **DigiFlow** | Projektverwaltung mit Export/Import | C#, Blazor, .NET 8 | [Live Demo](https://digiflow.onrender.com/) |
-| **Rust Solana Bot** | Performance-orientierter Trading Bot | Rust, Solana, WebSocket | [GitHub](https://github.com/arvinka23/rust-solana-bot) |
+| **Rust Solana Bot** | Performance-orientierter Trading-Bot | Rust, Solana, WebSocket | [GitHub](https://github.com/arvinka23/rust-solana-bot) |
 | **FitnessTracker** | CRUD-Anwendung mit Reporting | C#, .NET, Entity Framework | [GitHub](https://github.com/arvinka23/Fitnesstracker) |
 | **Parkly** | Crowdsourcing Parkplatz-Finder | Next.js 15, TypeScript, Supabase | [GitHub](https://github.com/arvinka23/Lernperiode-11) |
 
@@ -51,3 +51,4 @@ Ab **August 2026** fuer ein 12-monatiges IMS Praktikum verfuegbar.
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
