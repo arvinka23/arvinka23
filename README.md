@@ -1,73 +1,44 @@
-<div align="center">
-  
-# <div style="background-color: #1565C0; color: white; padding: 20px; border-radius: 10px;">👋 Hi, ich bin Seyedarvin Kasipourazbari</div>
+# Hallo, ich bin Seyedarvin Kasipourazbari
 
-### Ein 18-jähriger Schüler an der Kantonsschule Baden, IMS
+**IMS Student & Full-Stack Entwickler** an der Kantonsschule Baden.
+Ich entwickle zuverlaessige digitale Produkte mit Fokus auf saubere Architektur und klare Kommunikation.
 
-<img src="https://img.shields.io/badge/-Schüler-blue?style=for-the-badge" alt="Schüler Badge"/>
-<img src="https://img.shields.io/badge/-Entwickler-orange?style=for-the-badge" alt="Entwickler Badge"/>
-<img src="https://img.shields.io/badge/-18%20Jahre-green?style=for-the-badge" alt="Alter Badge"/>
-
-</div>
+Ab **August 2026** fuer ein 12-monatiges IMS Praktikum verfuegbar.
 
 ---
 
-## 📫 Kontakt
+### Tech-Stack
 
-Stehe immer zur Verfügung
-
-<a href="mailto:seyedarvin.kasipourazbari.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
----
-
-## 💻 Programming Skills
-
-<div>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-</div>
+**Backend:** C#, .NET, Entity Framework, SQL Server
+**Frontend:** TypeScript, React, Tailwind CSS
+**Systeme:** Rust, Python, Docker, GitHub Actions
+**Datenbanken:** SQL Server, MongoDB, Supabase
 
 ---
 
-## 🛠 Tools & Technologien
+### Ausgewaehlte Projekte
 
-<div>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-</div>
-
----
-
-## 🎓 Ausbildung
-
-<div style="background-color: #f0f8ff; padding: 15px; border-left: 5px solid #1565C0; border-radius: 5px;">
-  <strong>IMS - Informatikmittelschule</strong><br>
-  Kantonsschule Baden<br>
-  <i>Aktuell</i>
-</div>
+| Projekt | Beschreibung | Technologie | Link |
+|---------|-------------|-------------|------|
+| **IconTale** | Realtime Multiplayer Storytelling Game | Node.js, WebSocket, TypeScript | [Live Demo](https://icontale.onrender.com/) |
+| **Schachspiel** | Vollstaendiges Browser-Schach mit allen FIDE-Regeln | JavaScript, HTML5, CSS3 | [Live Demo](https://arvinka23.github.io/Schachspiel/) |
+| **DigiFlow** | Projektverwaltung mit Export/Import | C#, Blazor, .NET 8 | [Live Demo](https://digiflow.onrender.com/) |
+| **Rust Solana Bot** | Performance-orientierter Trading Bot | Rust, Solana, WebSocket | [GitHub](https://github.com/arvinka23/rust-solana-bot) |
+| **FitnessTracker** | CRUD-Anwendung mit Reporting | C#, .NET, Entity Framework | [GitHub](https://github.com/arvinka23/Fitnesstracker) |
+| **Parkly** | Crowdsourcing Parkplatz-Finder | Next.js 15, TypeScript, Supabase | [GitHub](https://github.com/arvinka23/Lernperiode-11) |
 
 ---
 
-## 💡 Über mich
+### Kontakt
 
-```javascript
-const arvin = {
-  alter: 18,
-  interessen: ['Programmieren', 'Schachspielen', 'Reisen'],
-  ziele: ['Ständiges Lernen', 'Interessante Projekte entwickeln'],
-  motto: "Neugier ist der Schlüssel zum Erfolg!"
-};
-```
+- **Portfolio:** [arvinka23.github.io](https://arvinka23.github.io/)
+- **LinkedIn:** [Seyedarvin Kasipourazbari](https://www.linkedin.com/in/seyedarvin-kasipourazbari-6583b1355/)
+- **E-Mail:** seyedarvin.kasipourazbari.dev@gmail.com
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arvin-kasipour&color=blue" alt="Profile Views" />
-</div>
+### GitHub-Statistiken
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arvinka23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinka23&layout=compact&theme=tokyonight&hide_border=true)
