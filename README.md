@@ -52,3 +52,5 @@ Ab **August 2026** für ein 12-monatiges IMS Praktikum verfügbar.
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvinka23)](https://github.com/arvinka23/github-readme-stats)
