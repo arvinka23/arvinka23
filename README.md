@@ -3,7 +3,6 @@
 **IMS Student & Full-Stack Entwickler** an der Kantonsschule Baden.
 Ich entwickle zuverlässige digitale Produkte mit Fokus auf saubere Architektur und klare Kommunikation.
 
-Ab **August 2026** für ein 12-monatiges IMS Praktikum verfügbar.
 
 ---
 
