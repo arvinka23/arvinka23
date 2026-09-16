@@ -1,6 +1,6 @@
 # Seyedarvin Kasipourazbari
 
-**IMS Student & Praktikant bei Swissbrain**  
+**IMS Student & Praktikant bei swissbrain**  
 Kantonsschule Baden
 
 Ich baue zuverlässige digitale Produkte mit Fokus auf saubere Architektur, klare Kommunikation und durchdachte Benutzererfahrung.
